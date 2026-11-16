@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Swayam+Khantwal+%F0%9F%91%8B;Embedded+Systems+%26+IoT+Engineer;Autonomous+Drone+Developer;PCB+Design+%7C+Robotics+%7C+Firmware" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Swayam+Khantwal+%F0%9F%91%8B;MCA+Student+%7C+Embedded+%26+IoT+Engineer;Autonomous+Drone+Developer;Local+AI+%26+Voice+Assistants;PCB+Design+%7C+Robotics+%7C+Firmware" alt="Typing intro" />
 
-**BCA Final-Year Student · Embedded Systems · IoT · Autonomous Drones**
+**MCA First-Year Student · Embedded Systems · IoT · Autonomous Drones · Local AI**
 <br/>
 🏆 2nd Position, CII Western Region WorkSkill Competition (Industrial Electronics)
 
@@ -24,6 +24,8 @@ I design and build **intelligent hardware that works on its own**: from flight c
 - 🔌 Designing **custom PCBs** and embedded firmware for ESP32, Arduino and Teensy
 - 🤖 Making **robots** that follow lines, pick and drop objects, deliver packages and fight
 - 🌐 Connecting hardware to the web with **Wi-Fi, WebSockets and nRF24 radio links**
+- 🧠 Running **AI locally**: offline speech recognition and LLMs with Whisper and Ollama
+- 🎓 Pursuing a **Master of Computer Applications (MCA)** after completing my BCA
 - 🎯 Currently seeking **internship opportunities** in embedded systems, robotics or drone technology
 
 ---
@@ -56,6 +58,8 @@ I design and build **intelligent hardware that works on its own**: from flight c
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Tools**
 <br/>
@@ -91,6 +95,13 @@ I design and build **intelligent hardware that works on its own**: from flight c
 | [**Safe Kick**](https://github.com/Swayam7024/Safe_Kick) | Women's safety shoe with GPS location tracking and a protected rescue dashboard | ESP32 · GPS · Web server |
 | [**Repose Tester**](https://github.com/Swayam7024/repose_tester) | Industrial angle-of-repose testing machine with an actuator-driven tilt platform and IMU angle measurement | Arduino Mega · MPU6050 · LCD |
 | [**RC Engine Sound**](https://github.com/Swayam7024/RC_Engensound) | Realistic engine sound synced to an RC car's throttle | Arduino · TMRpcm · SD |
+
+### 🧠 AI & Software
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Local Voice Assistant**](https://github.com/Swayam7024/VoiceAssistent) | Fully offline voice assistant with speech-to-text and a local LLM that remembers the conversation | Python · faster-whisper · Ollama · FFmpeg |
+| [**Java Practical Questions**](https://github.com/Swayam7024/java-practical-questions-) | OOP and problem-solving programs plus Swing and JavaFX GUI apps | Java · Swing · JavaFX |
 
 ### 🌐 Web Development
 
