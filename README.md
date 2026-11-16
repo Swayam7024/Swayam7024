@@ -1,24 +1,140 @@
-# 💫 About Me:
-👋 Hi, I'm Swayam<br><br>I'm a passionate developer and builder who enjoys working on real-world tech projects, especially in the field of robotics and autonomous systems. I like turning ideas into practical solutions, whether it's designing hardware, writing control logic, or integrating systems together.<br><br>Currently, I'm focused on building reliable and efficient projects that combine software and electronics. I'm always open to learning new technologies, collaborating on interesting ideas, and improving my skills through hands-on work.<br><br>Feel free to explore my projects and connect if you'd like to collaborate or discuss something exciting!
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Swayam+Khantwal+%F0%9F%91%8B;Embedded+Systems+%26+IoT+Engineer;Autonomous+Drone+Developer;PCB+Design+%7C+Robotics+%7C+Firmware" alt="Typing intro" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swayam_k.99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamkhantwalcodes) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/swayamkhantwal702) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swayam.khantwal.codes@gmail.com) 
+**BCA Final-Year Student · Embedded Systems · IoT · Autonomous Drones**
+<br/>
+🏆 2nd Position, CII Western Region WorkSkill Competition (Industrial Electronics)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Swayam7024&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Swayam7024&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam7024&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-swayamkhantwalcodes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamkhantwalcodes)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swayam.khantwal.codes@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swayamkhantwal-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Swayam7024/swayamkhantwal)
+[![Instagram](https://img.shields.io/badge/Instagram-swayam__k.99-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/swayam_k.99)
+![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=for-the-badge)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Swayam7024&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Swayam7024&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I design and build **intelligent hardware that works on its own**: from flight controllers and custom PCBs to robots, IoT devices and the firmware and web dashboards that drive them.
+
+- 🛸 Building **autonomous drones**: flight controllers, PID tuning, sensor fusion, GPS waypoint missions
+- 🔌 Designing **custom PCBs** and embedded firmware for ESP32, Arduino and Teensy
+- 🤖 Making **robots** that follow lines, pick and drop objects, deliver packages and fight
+- 🌐 Connecting hardware to the web with **Wi-Fi, WebSockets and nRF24 radio links**
+- 🎯 Currently seeking **internship opportunities** in embedded systems, robotics or drone technology
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Embedded & Hardware**
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c&theme=dark" alt="Embedded" />
+<br/>
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-1F6FEB?style=flat-square)
+![Pixhawk](https://img.shields.io/badge/Pixhawk-333333?style=flat-square)
+![MAVLink](https://img.shields.io/badge/MAVLink-0A7BBB?style=flat-square)
+![nRF24L01](https://img.shields.io/badge/nRF24L01-00A98F?style=flat-square)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA%20PCB-1765D0?style=flat-square)
+
+**Software & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,express,flask,mysql,php,threejs&theme=dark" alt="Software" />
+
+**AI, Vision & Robotics**
+<br/>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn&theme=dark" alt="AI and vision" />
+<br/>
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,blender,unity,figma&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🛸 Drones & Flight
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Drone Flight Controller**](https://github.com/Swayam7024/Drone_Flightcontroller) | Quadcopter flight controller with MPU6050 sensor fusion, PID stabilisation, arming and failsafe | Arduino · C++ · MPU6050 |
+| [**RC Plane Autopilot**](https://github.com/Swayam7024/Autopilot_rcplane-) | Automated takeoff, manoeuvre and landing sequence for an RC plane using ultrasonic height sensing | Arduino · Servo/ESC · HC-SR04 |
+| [**PPM Signal Checker**](https://github.com/Swayam7024/PPM_signal-_check) | Decodes an RC receiver's PPM stream and turns it into a USB joystick for simulators | Teensy · PPM · USB HID |
+
+### 🤖 Robotics
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Campus Delivery Robot**](https://github.com/Swayam7024/Delivery_robot) | Web-controlled delivery robot with live GPS map, nRF24 radio link and obstacle detection | ESP8266 · Arduino · nRF24 · WebSockets |
+| [**Pick & Drop Robotic Car**](https://github.com/Swayam7024/Robotic_car) | Bluetooth-controlled car with a robotic arm and gripper | Arduino · Dabble · Bluetooth |
+| [**Fighting Robot**](https://github.com/Swayam7024/fighting_robot-) | Phone-controlled combat robot with a relay-switched weapon | ESP32 · Bluetooth · Dabble |
+| [**Line Following Robot**](https://github.com/Swayam7024/line-following) | Five-sensor IR line follower with PWM speed control | Arduino · IR sensors · L298N |
+
+### 🔌 IoT & Embedded Products
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Safe Kick**](https://github.com/Swayam7024/Safe_Kick) | Women's safety shoe with GPS location tracking and a protected rescue dashboard | ESP32 · GPS · Web server |
+| [**Repose Tester**](https://github.com/Swayam7024/repose_tester) | Industrial angle-of-repose testing machine with an actuator-driven tilt platform and IMU angle measurement | Arduino Mega · MPU6050 · LCD |
+| [**RC Engine Sound**](https://github.com/Swayam7024/RC_Engensound) | Realistic engine sound synced to an RC car's throttle | Arduino · TMRpcm · SD |
+
+### 🌐 Web Development
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Portfolio Website**](https://github.com/Swayam7024/swayamkhantwal) | 3D interactive portfolio with Three.js and GSAP animations | Three.js · GSAP · JS |
+| [**College Event Management System**](https://github.com/Swayam7024/College-Event-Management-System-) | Full-stack event platform with admin panel, poster uploads and auth | Node.js · Express · MySQL |
+| [**MAATE Website**](https://github.com/Swayam7024/MAATE) | Production website delivered for a training-institute client | HTML · CSS · JS · EmailJS |
+| [**Robot Java Applet**](https://github.com/Swayam7024/java_aplet) | Interactive animated robot in Java AWT | Java |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Swayam7024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam7024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Swayam7024&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Swayam7024&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Position**, CII Western Region WorkSkill Competition (Industrial Electronics), for an autonomous drone delivery system
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something that flies
+
+I'm always open to collaborating on drones, robotics and embedded projects.
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamkhantwalcodes)
+[![Email](https://img.shields.io/badge/-swayam.khantwal.codes%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swayam.khantwal.codes@gmail.com)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+
+<img src="https://komarev.com/ghpvc/?username=Swayam7024&color=00B4D8&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+</div>
